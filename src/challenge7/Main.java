@@ -2,6 +2,8 @@ package challenge7;
 
 import java.util.Scanner;
 
+// Scans student's grade, send it to a method that calculates their averages (changeable) and situation (approved or failure) and returns a list of student's name, average and situation
+
 public class Main {
     public static void main(String[] args) {
         Scanner kb = new Scanner(System.in);
