@@ -2,6 +2,8 @@ package challenge6;
 
 import java.util.Scanner;
 
+// Scans a list(changeable size) of product names and prices, scans a min and max cost and return all items in this range
+
 public class Main {
     public static void main(String[] args) {
         Scanner kb = new Scanner(System.in);
