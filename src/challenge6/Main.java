@@ -32,4 +32,4 @@ public class Main {
 
         System.out.println("\nList:" + util.checkRange(product, min, max));
     }
-}
+} //

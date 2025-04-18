@@ -34,7 +34,7 @@ public class Main {
             }
             aux += "\nAverage: " + avg / quantity;
             aux += "\nSituation: ";
-            if (avg / quantity >= 6)
+            if (avg / quantity >= 6) // change the number according to the desired average
                 aux += "Approved\n";
             else
                 aux += "Failed\n";
